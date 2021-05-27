@@ -24,7 +24,7 @@ namespace MatrixShuffling
 
                 if (data == "END")
                 {
-                    //ToDo Exit Loop and stop receoving commands
+                    //Exit Loop and stop receiving commands and dataInput
                     break;
                 }
 
